@@ -4,6 +4,7 @@ import mkcert from 'vite-plugin-mkcert'
 
 
 export default defineConfig({
+  base: '/fullstack-app/',
   plugins: [react(), mkcert()],
   server: {
     proxy: {
