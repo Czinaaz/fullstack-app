@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+.tmp
+npm-debug.log
+vite-project-backend/credentials.json
+vite-project-backend/dist
+vite-project-backend/.env
+vite-project-backend/prod-env.yaml
